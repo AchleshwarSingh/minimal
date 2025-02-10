@@ -10,64 +10,52 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Machine Learning Projects - 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Predicting Customer Churn in the Telecom Industry: A Data-Driven Approach
 
-## Header 2
+In this project, we analyze customer-level data from a leading telecom firm to predict churn among high-value prepaid customers. Using a four-month dataset, we identify behavioral patterns leading to churn and build predictive models to help telecom companies take proactive retention measures. The approach involves data preprocessing, feature engineering, dimensionality reduction (PCA), and machine learning models, addressing class imbalance for accurate predictions. Additionally, we identify key churn indicators to guide strategic business decisions. The insights from this study enable telecom providers to reduce revenue loss and enhance customer loyalty.
+
+## Lead Scoring Case Study: Optimizing Sales Conversion with Predictive Analytics
+
+This project focuses on building a lead scoring model to help businesses identify high-potential leads and optimize their sales strategy. Using machine learning, I analyzed customer interactions and behavioral data to predict lead conversion probability. The workflow involved data preprocessing, exploratory data analysis (EDA), feature engineering, handling class imbalance, and model evaluation using classification techniques. The goal was to enhance lead prioritization, improve sales efficiency, and drive higher conversion rates. The insights from this project empower businesses to allocate resources effectively and maximize revenue.
+
+## Bike Demand Prediction: Regression Analysis for Strategic Decision-Making
+
+This project analyzes bike demand using multiple linear regression to help a bike-sharing company optimize operations and revenue. By examining key factors influencing demand—such as seasonality, weather conditions, and user behavior—I built a predictive model to forecast future demand. The process included data preprocessing, exploratory data analysis (EDA), feature engineering, multicollinearity handling, and model evaluation using R-squared and residual analysis. The insights from this analysis enable data-driven decision-making, helping the company adjust supply, pricing, and marketing strategies for improved business outcomes.
+
+## Media Company Case Study: Analyzing Viewership Trends to Drive Engagement
+
+This project focuses on understanding viewership trends for a digital media company that experienced a decline in audience engagement. Using exploratory data analysis (EDA) and multiple linear regression, I identified key factors impacting viewership, such as content type, user demographics, and seasonal trends. The analysis involved data cleaning, feature engineering, multicollinearity handling, and model evaluation to derive actionable insights. The findings help the company refine its content strategy, optimize marketing efforts, and improve audience retention for sustainable growth.
+
+## Housing Price Prediction: Multiple Linear Regression Case Study
+
+This project explores housing price prediction using multiple linear regression to understand the factors influencing property values. By analyzing key variables such as location, size, amenities, and market trends, I built a predictive model to estimate house prices accurately. The workflow included data preprocessing, exploratory data analysis (EDA), feature selection, handling multicollinearity, and model evaluation using statistical metrics. The insights from this study help buyers, sellers, and real estate professionals make data-driven pricing decisions in the housing market.
+
+# Linear Regression 
+
+## Simple Linear Regression: Predicting Outcomes for TV Sales
+This project demonstrates the application of simple linear regression to model relationships between a dependent and an independent variable. Using a real-world dataset, I explored how a single predictor influences the target outcome. The workflow included data preprocessing, exploratory data analysis (EDA), model training, evaluation using R-squared and residual analysis, and interpretation of results. This study serves as a foundational approach to regression analysis, helping businesses and researchers make informed predictions based on linear relationships.
+
+# SQL Projects 
+
+## RSVP Movies Case Study: Data-Driven Insights for a Global Film Release
+
+This project involved analyzing movie data using SQL to provide RSVP Movies with actionable insights for their upcoming global film release in 2022. By examining past movie performance over three years, I identified key trends in genres, audience preferences, box office success factors, and production strategies. The analysis was structured into four segments, each uncovering crucial insights from different data combinations. The findings helped RSVP Movies make data-driven decisions on budgeting, marketing, and content strategy to maximize global appeal and profitability.
+
+## Hospital Management Information System (HMIS) - Data-Driven Healthcare Solutions
+
+This project demonstrates a Hospital Management Information System (HMIS) designed to streamline healthcare operations using MySQL. The system efficiently manages patient records, doctor appointments, billing, and medical history. By leveraging SQL for data storage, retrieval, and analysis, the HMIS enhances hospital administration, optimizes resource allocation, and improves patient care. The project showcases how data-driven solutions can drive efficiency and accuracy in healthcare management.
+
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
 
 ### And an ordered list:
 
