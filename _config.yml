@@ -1,5 +1,5 @@
 title: <p align="center"> Achleshwar Pratap Singh </p>
-logo: assets/img/IMG_3420.jpeg width="150" height="150"
+logo: <img src="assets/img/IMG_3420.jpeg" width="150" height="150" />
 
 description:
   <p align="center">
@@ -8,8 +8,10 @@ description:
   <a href="https://github.com/AchleshwarSingh">GitHub</a>
   
   <br>   
-  A Proven professional with 4 years experience in Market Research, Data Analysis, Data Science, Python and Project Management. 
-  A talented communicator and experienced advertiser to develop business and help any organization stand apart from the opposition
+  A Proven professional with 4 years experience in Market Research, 
+  Data Analysis, Data Science, Python and Project Management. 
+  A talented communicator and experienced advertiser to develop 
+  business and help any organization stand apart from the opposition
   <br>
   </p>
 
