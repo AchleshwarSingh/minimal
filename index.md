@@ -18,7 +18,7 @@ In this project, we analyze customer-level data from a leading telecom firm to p
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Telcom-Customer-Churn-Study)
 
-<center><img src="assets/img/Churn Case Study.png"/></center>
+<center><img src="assets/img/Churn Case Study.png" width="900" height="300" /></center>
 
 ## Lead Scoring Case Study: Optimizing Sales Conversion with Predictive Analytics
 
@@ -26,7 +26,7 @@ This project focuses on building a lead scoring model to help a Education Compan
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Lead-Scoring-Case-Study)
 
-<center><img src="assets/img/Lead Scoring.png"/></center>
+<center><img src="assets/img/Lead Scoring.png" width="900" height="300" /></center>
 
 ## Bike Demand Prediction: Regression Analysis for Strategic Decision-Making
 
@@ -34,7 +34,7 @@ This project analyzes bike demand using multiple linear regression to help a bik
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Bike-Company-Regression-Analysis/tree/main)
 
-<center><img src="assets/img/Bike Sharing Case study.png"/></center>
+<center><img src="assets/img/Bike Sharing Case study.png" width="900" height="300" /></center>
 
 ## Media Company Case Study: Analyzing Viewership Trends to Drive Engagement
 
@@ -42,7 +42,7 @@ This project focuses on understanding viewership trends for a digital media comp
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Media-Company-Case-Study/tree/main)
 
-<center><img src="assets/img/Social-Media-Case-Studies.png"/></center>
+<center><img src="assets/img/Social-Media-Case-Studies.png" width="900" height="300" /></center>
 
 ## Housing Price Prediction: Multiple Linear Regression Case Study
 
@@ -50,7 +50,7 @@ This project explores housing price prediction using multiple linear regression 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Multiple-Linear-Regression---Housing-Case-Study)
 
-<center><img src="assets/img/housing casestudy.jpg"/></center>
+<center><img src="assets/img/housing casestudy.jpg" width="900" height="300" /></center>
 
 # Linear Regression 
 
@@ -67,7 +67,7 @@ This project involved analyzing movie data using SQL to provide RSVP Movies with
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/RSVP-Movie-CaseStudy)
 
-<center><img src="assets/img/Movie Casestudy.jpg"/></center>
+<center><img src="assets/img/Movie Casestudy.jpg" width="900" height="300" /></center>
 
 ## Hospital Management Information System (HMIS) - Data-Driven Healthcare Solutions
 
@@ -75,16 +75,11 @@ This project demonstrates a Hospital Management Information System (HMIS) design
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Hospital-MIS---Demo)
 
-<center><img src="assets/img/Hospital Management Information System.jpg"/></center>
+<center> <img src="assets/img/Hospital Management Information System.jpg" width="900" height="300" /> </center>
 
-### Small image
+### Languages 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+<img src="https://github.com/AchleshwarSingh/minimal/blob/master/assets/img/Python-Libraries-630x420.png" alt="Python Libraries" width="200" height="200">  <img src="https://github.com/AchleshwarSingh/minimal/blob/master/assets/img/mysql_PNG19.png" alt="Python Libraries" width="100" height="100">
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
