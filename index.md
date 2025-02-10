@@ -10,6 +10,8 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+# Data Science Portfolio
+
 # Machine Learning Projects - 
 
 ## Predicting Customer Churn in the Telecom Industry: A Data-Driven Approach
@@ -80,11 +82,3 @@ This project demonstrates a Hospital Management Information System (HMIS) design
 ### Languages 
 
 <img src="https://github.com/AchleshwarSingh/minimal/blob/master/assets/img/Python-Libraries-630x420.png" alt="Python Libraries" width="200" height="200">  <img src="https://github.com/AchleshwarSingh/minimal/blob/master/assets/img/mysql_PNG19.png" alt="Python Libraries" width="100" height="100">
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
