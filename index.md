@@ -18,11 +18,15 @@ In this project, we analyze customer-level data from a leading telecom firm to p
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Telcom-Customer-Churn-Study)
 
+<center><img src="assets/img/Churn Case Study.png"/></center>
+
 ## Lead Scoring Case Study: Optimizing Sales Conversion with Predictive Analytics
 
-This project focuses on building a lead scoring model to help businesses identify high-potential leads and optimize their sales strategy. Using machine learning, I analyzed customer interactions and behavioral data to predict lead conversion probability. The workflow involved data preprocessing, exploratory data analysis (EDA), feature engineering, handling class imbalance, and model evaluation using classification techniques. The goal was to enhance lead prioritization, improve sales efficiency, and drive higher conversion rates. The insights from this project empower businesses to allocate resources effectively and maximize revenue.
+This project focuses on building a lead scoring model to help a Education Company identify high-potential leads and optimize their sales strategy. Using machine learning, I analyzed customer interactions and behavioral data to predict lead conversion probability. The workflow involved data preprocessing, exploratory data analysis (EDA), feature engineering, handling class imbalance, and model evaluation using classification techniques. The goal was to enhance lead prioritization, improve sales efficiency, and drive higher conversion rates. The insights from this project empower businesses to allocate resources effectively and maximize revenue.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Lead-Scoring-Case-Study)
+
+<center><img src="assets/img/Lead Scoring.png"/></center>
 
 ## Bike Demand Prediction: Regression Analysis for Strategic Decision-Making
 
@@ -30,17 +34,23 @@ This project analyzes bike demand using multiple linear regression to help a bik
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Bike-Company-Regression-Analysis/tree/main)
 
+<center><img src="assets/img/Bike Sharing Case study.png"/></center>
+
 ## Media Company Case Study: Analyzing Viewership Trends to Drive Engagement
 
 This project focuses on understanding viewership trends for a digital media company that experienced a decline in audience engagement. Using exploratory data analysis (EDA) and multiple linear regression, I identified key factors impacting viewership, such as content type, user demographics, and seasonal trends. The analysis involved data cleaning, feature engineering, multicollinearity handling, and model evaluation to derive actionable insights. The findings help the company refine its content strategy, optimize marketing efforts, and improve audience retention for sustainable growth.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Media-Company-Case-Study/tree/main)
 
+<center><img src="assets/img/Social-Media-Case-Studies.png"/></center>
+
 ## Housing Price Prediction: Multiple Linear Regression Case Study
 
 This project explores housing price prediction using multiple linear regression to understand the factors influencing property values. By analyzing key variables such as location, size, amenities, and market trends, I built a predictive model to estimate house prices accurately. The workflow included data preprocessing, exploratory data analysis (EDA), feature selection, handling multicollinearity, and model evaluation using statistical metrics. The insights from this study help buyers, sellers, and real estate professionals make data-driven pricing decisions in the housing market.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Multiple-Linear-Regression---Housing-Case-Study)
+
+<center><img src="assets/img/housing casestudy.jpg"/></center>
 
 # Linear Regression 
 
@@ -57,11 +67,15 @@ This project involved analyzing movie data using SQL to provide RSVP Movies with
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/RSVP-Movie-CaseStudy)
 
+<center><img src="assets/img/Movie Casestudy.jpg"/></center>
+
 ## Hospital Management Information System (HMIS) - Data-Driven Healthcare Solutions
 
 This project demonstrates a Hospital Management Information System (HMIS) designed to streamline healthcare operations using MySQL. The system efficiently manages patient records, doctor appointments, billing, and medical history. By leveraging SQL for data storage, retrieval, and analysis, the HMIS enhances hospital administration, optimizes resource allocation, and improves patient care. The project showcases how data-driven solutions can drive efficiency and accuracy in healthcare management.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Hospital-MIS---Demo)
+
+<center><img src="assets/img/Hospital Management Information System.jpg"/></center>
 
 ### Small image
 
@@ -71,19 +85,6 @@ This project demonstrates a Hospital Management Information System (HMIS) design
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
