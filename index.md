@@ -10,6 +10,7 @@ In this project, we analyze customer-level data from a leading telecom firm to p
 
 <center><img src="assets/img/Churn Case Study.png" width="900" height="300" /></center>
 
+
 ### Lead Scoring Case Study: Optimizing Sales Conversion with Predictive Analytics
 
 This project focuses on building a lead scoring model to help a Education Company identify high-potential leads and optimize their sales strategy. Using machine learning, I analyzed customer interactions and behavioral data to predict lead conversion probability. The workflow involved data preprocessing, exploratory data analysis (EDA), feature engineering, handling class imbalance, and model evaluation using classification techniques. The goal was to enhance lead prioritization, improve sales efficiency, and drive higher conversion rates. The insights from this project empower businesses to allocate resources effectively and maximize revenue.
@@ -17,6 +18,7 @@ This project focuses on building a lead scoring model to help a Education Compan
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Lead-Scoring-Case-Study)
 
 <center><img src="assets/img/Lead Scoring.png" width="900" height="300" /></center>
+
 
 ### Bike Demand Prediction: Regression Analysis for Strategic Decision-Making
 
@@ -26,6 +28,7 @@ This project analyzes bike demand using multiple linear regression to help a bik
 
 <center><img src="assets/img/Bike Sharing Case study.png" width="900" height="300" /></center>
 
+
 ### Media Company Case Study: Analyzing Viewership Trends to Drive Engagement
 
 This project focuses on understanding viewership trends for a digital media company that experienced a decline in audience engagement. Using exploratory data analysis (EDA) and multiple linear regression, I identified key factors impacting viewership, such as content type, user demographics, and seasonal trends. The analysis involved data cleaning, feature engineering, multicollinearity handling, and model evaluation to derive actionable insights. The findings help the company refine its content strategy, optimize marketing efforts, and improve audience retention for sustainable growth.
@@ -33,6 +36,7 @@ This project focuses on understanding viewership trends for a digital media comp
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Media-Company-Case-Study/tree/main)
 
 <center><img src="assets/img/Social-Media-Case-Studies.png" width="900" height="300" /></center>
+
 
 ### Housing Price Prediction: Multiple Linear Regression Case Study
 
@@ -42,12 +46,14 @@ This project explores housing price prediction using multiple linear regression 
 
 <center><img src="assets/img/housing casestudy.jpg" width="900" height="300" /></center>
 
+
 ## Linear Regression 
 
 ### Simple Linear Regression: Predicting Outcomes for TV Sales
 This project demonstrates the application of simple linear regression to model relationships between a dependent and an independent variable. Using a real-world dataset, I explored how a single predictor influences the target outcome. The workflow included data preprocessing, exploratory data analysis (EDA), model training, evaluation using R-squared and residual analysis, and interpretation of results. This study serves as a foundational approach to regression analysis, helping businesses and researchers make informed predictions based on linear relationships.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Simple-Linear-Regression/tree/main)
+
 
 ## SQL Projects 
 
@@ -59,6 +65,7 @@ This project involved analyzing movie data using SQL to provide RSVP Movies with
 
 <center><img src="assets/img/Movie Casestudy.jpg" width="900" height="300" /></center>
 
+
 ### Hospital Management Information System (HMIS) - Data-Driven Healthcare Solutions
 
 This project demonstrates a Hospital Management Information System (HMIS) designed to streamline healthcare operations using MySQL. The system efficiently manages patient records, doctor appointments, billing, and medical history. By leveraging SQL for data storage, retrieval, and analysis, the HMIS enhances hospital administration, optimizes resource allocation, and improves patient care. The project showcases how data-driven solutions can drive efficiency and accuracy in healthcare management.
@@ -66,6 +73,7 @@ This project demonstrates a Hospital Management Information System (HMIS) design
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/AchleshwarSingh/Hospital-MIS---Demo)
 
 <center> <img src="assets/img/Hospital Management Information System.jpg" width="900" height="300" /> </center>
+
 
 ### Languages 
 
