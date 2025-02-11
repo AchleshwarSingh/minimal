@@ -1,20 +1,17 @@
-title: <p align="center"> Achleshwar Pratap Singh </p>
-logo: assets/img/IMG_3420 (1).jpeg
+title: "<p align=\"center\"> Achleshwar Pratap Singh </p>"
+logo: "assets/img/IMG_3420 (1).jpeg"
 
-description:
+description: |
   <p align="center">
-  <a href="assets/img/Achleshwar_DataSpecialist_4YoE.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/achleshwar-pratap-singh-37816a190/">LinkedIn</a> |
-  <a href="https://github.com/AchleshwarSingh">GitHub</a>
-  
-  <br>   
-  A Proven professional with 4 years experience in Market Research, 
-  Data Analysis, Data Science, Python and Project Management. 
-  A talented communicator and experienced advertiser to develop 
-  business and help any organization stand apart from the opposition
-  <br>
+    <a href="assets/img/Achleshwar_DataSpecialist_4YoE.pdf">Resume</a> |
+    <a href="https://www.linkedin.com/in/achleshwar-pratap-singh-37816a190/">LinkedIn</a> |
+    <a href="https://github.com/AchleshwarSingh">GitHub</a>
+    <br>   
+    A Proven professional with 4 years experience in Market Research, 
+    Data Analysis, Data Science, Python and Project Management. 
+    A talented communicator and experienced advertiser to develop 
+    business and help any organization stand apart from the opposition
+    <br>
   </p>
-
-
 
 theme: jekyll-theme-minimal
